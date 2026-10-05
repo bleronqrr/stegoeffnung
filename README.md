@@ -18,11 +18,12 @@ Danach startet das Tool in einem eigenen Fenster mit Startmenü-/Desktop-Verknü
 
 ## Bedienung
 
-- Gelbe Felder sind Eingaben, alles andere wird live berechnet.
-- **Drucken / PDF**: zweiseitiger A4-Ausdruck mit Briefkopf. Im Druckdialog „Hintergrundgrafiken“ aktiviert lassen, Ränder „Keine“ bzw. „Standard“.
-- **Position speichern / öffnen**: Eingaben als `.json`-Datei ablegen (z. B. im Projektordner) und später wieder laden.
+- Links Eingaben, rechts Ergebnis, Skizze mit Ausnutzung an den vier Nachweisstellen und Nachweistabelle – alles live.
+- Oben **Eingabe / Protokoll** umschalten: Das Protokoll zeigt den Ausdruck in Excel-Optik.
+- **Protokoll drucken**: zweiseitiger A4-Ausdruck mit Briefkopf. Im Druckdialog „Hintergrundgrafiken“ aktiviert lassen, Ränder „Keine“ bzw. „Standard“.
+- **Speichern / Öffnen**: Eingaben als `.json`-Datei ablegen (z. B. im Projektordner) und später wieder laden.
 - Die letzten Eingaben bleiben im Browser gespeichert.
 
 ## Updates
 
-`index.html` ändern, hochladen und in `sw.js` die Versionsnummer (`stegoeffnung-v1` → `v2`) erhöhen.
+`index.html` ändern, hochladen und in `sw.js` die Versionsnummer (`stegoeffnung-v2` → `v3`) erhöhen.
