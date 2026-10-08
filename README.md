@@ -26,4 +26,4 @@ Danach startet das Tool in einem eigenen Fenster mit Startmenü-/Desktop-Verknü
 
 ## Updates
 
-`index.html` ändern, hochladen und in `sw.js` die Versionsnummer (`stegoeffnung-v2` → `v3`) erhöhen.
+`index.html` ändern, hochladen und in `sw.js` die Versionsnummer (`stegoeffnung-v3` → `v4`) erhöhen.

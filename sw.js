@@ -1,6 +1,6 @@
 // Offline-Cache. Bei Änderungen an index.html die Versionsnummer erhöhen,
 // damit installierte Apps die neue Version laden.
-const CACHE = "stegoeffnung-v2";
+const CACHE = "stegoeffnung-v3";
 const FILES = ["./", "index.html", "manifest.json", "icons/icon-192.png", "icons/icon-512.png", "icons/icon-maskable-512.png"];
 
 self.addEventListener("install", e => {
